@@ -1,6 +1,6 @@
 {
-  "name": "@Adonix/Baileys",
-  "version": "8.2.16",
+  "name": "@Croco-zino/Baileys",
+  "version": "1.0.0",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
@@ -8,7 +8,7 @@
   ],
   "homepage": "https://github.com/whiskeySockets/Baileys/",
   "repository": {
-    "url": "https://github.com/Ado-rgb/AdonixBaileys"
+    "url": "https://github.com/Croco-zino/baileys"
   },
   "license": "MIT",
   "author": "Meta Platforms, Inc.",
@@ -80,5 +80,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "scope": "@Adonix"
+  "scope": "@Croco-zino"
 }
